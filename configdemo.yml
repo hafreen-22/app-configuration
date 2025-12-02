@@ -1,6 +1,6 @@
 build:
   id: 1010
   version: 1000.2.3
-  name: "Dev-Git-Production-Build"
-  type: "Git Development build"
+  name: "Default-Git-Production-Build"
+  type: "Git Default build"
 
